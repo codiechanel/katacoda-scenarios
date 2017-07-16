@@ -22,7 +22,7 @@
   "environment": {
 		"showdashboard": true,
 		"dashboard": "Mobx UI",
-		"uilayout": "terminal-iframe",
+		"uilayout": "terminal",
 		"hideintro": false,
 		"hidefinish": false
 	},
