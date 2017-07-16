@@ -19,3 +19,17 @@ import mobx
 set our observabale
 
 `var { observable, autorun } = mobx`{{execute}}
+
+create an observable variable
+
+`const map = observable.map({ key: "initial value" })`{{execute}}
+
+autorun gets invoked whenever our observable changes
+
+`var disposer = autorun(() => {
+  console.log("Invoked:", map.get("key"));
+})`{{execute}}
+
+now lets change our observable
+
+`map.set("key", "new value")`{{execute}}
