@@ -1,1 +1,1 @@
-cd $HOME/tutorial/scenario-example
+echo 'Coolness node'
