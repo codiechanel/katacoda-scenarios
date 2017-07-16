@@ -1,7 +1,7 @@
 This is your first step.
 
 ## Task
-
+The dashboard is running on Port 9000 and can be accessed via [this link](https://[[HOST_SUBDOMAIN]]-9000-[[KATACODA_HOST]].environments.katacoda.com)
 First let's install dependencies
 
 `npm i mobx`{{execute}}
