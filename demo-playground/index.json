@@ -1,0 +1,14 @@
+{
+	"live": false,
+	"title": "Demo Playground",
+	"backend": {
+		"imageid": "node6"
+	},
+	"environment": {
+		"showdashboard": true,
+		"dashboard": "Mobx UI",
+		"uilayout": "demo",
+		"hideintro": true,
+		"hidefinish": true
+	}
+}
