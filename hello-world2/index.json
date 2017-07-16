@@ -19,7 +19,8 @@
     }
   },
      "files": [
-        "app.js"
+        "app.js",
+       "scenario-example/mobx/step1.js"
    ],
   "environment": {
           "uilayout": "editor-terminal",
