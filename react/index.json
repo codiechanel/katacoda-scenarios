@@ -37,6 +37,6 @@
 	},
   "backend": {
     "port": 3000,
-    "imageid": "docker-node"
+    "imageid": "node6"
   }
 }
