@@ -1,5 +1,5 @@
 {
-  "title": "This is my second Hello World Scenario",
+  "title": "Learning Mobx",
   "description": "Your First Scenario",
   "difficulty": "beginner",
   "time": "2 minutes",
@@ -19,8 +19,7 @@
     }
   },
      "files": [
-        "app.js",
-       "scenario-example/mobx/step1.js"
+        "app.js"
    ],
   "environment": {
           "uilayout": "editor-terminal",
