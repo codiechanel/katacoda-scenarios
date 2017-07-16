@@ -1,5 +1,5 @@
 {
-	"live": false,
+	"live": true,
 	"title": "Demo Playground",
 	"backend": {
 		"imageid": "node6"
