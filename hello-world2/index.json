@@ -19,6 +19,20 @@
       "text": "finish.md"
     }
   },
+	  "assets": {
+    "client": [
+      {
+        "file": "cool.txt",
+        "target": "~/"
+      }
+    ],
+    "host01": [
+      {
+        "file": "cool.txt",
+        "target": "~/"
+      }
+    ]
+  },
   "environment": {
 		"showdashboard": true,
 		"dashboard": "Mobx UI",
