@@ -4,6 +4,8 @@ This is your first step.
 
 First let's install dependencies
 
+The dashboard is running on Port 9000 and can be accessed via [this link](https://[[HOST_SUBDOMAIN]]-9000-[[KATACODA_HOST]].environments.katacoda.com)
+
 6) Visit the newly deployed container on [port 80](https://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com)
 
 `npm i mobx`{{execute}}
