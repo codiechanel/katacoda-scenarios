@@ -19,12 +19,15 @@
       "text": "finish.md"
     }
   },
-
   "environment": {
-          "uilayout": "editor-terminal",
-        "uisettings": "javascript",
-    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nStart Kubernetes using `launch.sh`\u001b[m\r\n"
-  },
+		"showdashboard": true,
+		"dashboard": "Mobx UI",
+		"uilayout": "terminal-iframe",
+		"hideintro": false,
+		"hidefinish": false
+	},
+
+
   "backend": {
     "imageid": "node6"
   }
