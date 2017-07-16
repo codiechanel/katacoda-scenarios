@@ -24,9 +24,13 @@
        "scenario-example/mobx/step1.js"
    ],
   "environment": {
+	  "uilayout": "editor-terminal",
+
+"uisettings": "javascript",
+
 		"showdashboard": true,
 		"dashboard": "Demo UI",
-		"uilayout": "terminal-iframe",
+		
 		"hideintro": false,
 		"hidefinish": false
 	},
