@@ -1,1 +1,1 @@
-echo 'Coolness node'
+git clone https://github.com/codiechanel/react-simple-boilerplate.git .
