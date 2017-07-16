@@ -4,6 +4,8 @@ This is your first step.
 
 First let's install dependencies
 
+6) Visit the newly deployed container on [port 80](https://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com)
+
 `npm i mobx`{{execute}}
 
 lets go to node shell and start coding
