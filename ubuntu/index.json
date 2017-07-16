@@ -1,0 +1,35 @@
+{
+  "title": "Ubuntu Playground",
+  "description": "Your First Scenario",
+  "difficulty": "beginner",
+  "time": "2 minutes",
+  "details": {
+    "steps": [{
+      "title": "Step 1 - Run Command",
+      "text": "step1.md",
+       "code": "prepare.sh"
+    }],
+    "intro": {
+      "text": "intro.md",
+      "courseData": "env-init.sh",
+      "credits": ""
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+     "files": [
+        "app.js",
+       "scenario-example/mobx/step1.js"
+   ],
+  "environment": {
+		"showdashboard": true,
+		"dashboard": "Demo UI",
+		"uilayout": "terminal-iframe",
+		"hideintro": false,
+		"hidefinish": false
+	},
+  "backend": {
+    "imageid": "docker"
+  }
+}
