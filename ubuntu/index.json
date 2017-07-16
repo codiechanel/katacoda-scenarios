@@ -25,7 +25,7 @@
   "environment": {
 		"showdashboard": true,
 		"dashboard": "Demo UI",
-		"uilayout": "terminal-iframe",
+		"uilayout": "terminal-editor",
 		"hideintro": false,
 		"hidefinish": false
 	},
