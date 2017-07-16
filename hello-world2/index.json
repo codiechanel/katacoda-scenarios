@@ -19,9 +19,7 @@
       "text": "finish.md"
     }
   },
-     "files": [
-        "app.js"
-   ],
+
   "environment": {
           "uilayout": "editor-terminal",
         "uisettings": "javascript",
