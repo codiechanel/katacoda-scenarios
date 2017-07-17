@@ -22,11 +22,9 @@ we got systemd
 
 `apt search systemd`{{execute}}
 
-autorun gets invoked whenever our observable changes
+lets see what services are running
 
-`var disposer = autorun(() => {
-  console.log("Invoked:", map.get("key"));
-})`{{execute}}
+`systemctl list-unit-files --type=service`{{execute}}
 
 now lets change our observable
 
