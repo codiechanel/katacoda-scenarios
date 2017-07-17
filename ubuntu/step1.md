@@ -6,9 +6,9 @@ First let's see what version we got
 
 `cat /etc/*release`{{execute}}
 
-lets go to node shell and start coding
+If you are used to using to `apt-get`, then you can now just use `apt`:
 
-`node`{{execute}}
+`apt update`{{execute}}
 
 import mobx
 
