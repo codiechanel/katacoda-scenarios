@@ -10,9 +10,9 @@ If you are used to using to apt-get, then you can now just use apt:
 
 `apt update`{{execute}}
 
-Ubuntu 16.04 comes by default with Python 3.5.1 installed as the python3 binary. Python 2 is still installable using the python package:
+Ubuntu 16.04 comes with both Python versions 3.5.1 and 2.7. 
 
-`apt install python`{{execute}}
+`ls /usr/lib/python*`{{execute}}
 
 set our observabale
 
