@@ -1,1 +1,1 @@
-echo 'Coolness node'
+
