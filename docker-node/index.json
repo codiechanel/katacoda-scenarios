@@ -24,8 +24,9 @@
    ],
   "environment": {
 		"showdashboard": true,
-		"dashboard": "Demo UI",
-		"uilayout": "terminal-iframe",
+		
+	  "dashboards": [{"name": "Tab Name", "port": 80}, {"name": "Tab Name", "port": 8080}],
+		"uilayout": "terminal",
 		"hideintro": false,
 		"hidefinish": false
 	},
