@@ -14,13 +14,13 @@ Ubuntu 16.04 comes with both Python versions 3.5.1 and 2.7.
 
 `ls /usr/lib/python*`{{execute}}
 
-set our observabale
+let's what packages we have
 
-`var { observable, autorun } = mobx`{{execute}}
+`apt list`{{execute}}
 
-create an observable variable
+we got systemd 
 
-`const map = observable.map({ key: "initial value" })`{{execute}}
+`apt search systemd`{{execute}}
 
 autorun gets invoked whenever our observable changes
 
