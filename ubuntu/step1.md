@@ -6,13 +6,13 @@ First let's see what version we got
 
 `cat /etc/*release`{{execute}}
 
-If you are used to using to `apt-get`, then you can now just use `apt`:
+If you are used to using to apt-get, then you can now just use apt:
 
 `apt update`{{execute}}
 
-import mobx
+Ubuntu 16.04 comes by default with Python 3.5.1 installed as the python3 binary. Python 2 is still installable using the python package:
 
-`var mobx = require('mobx')`{{execute}}
+`apt install python`{{execute}}
 
 set our observabale
 
